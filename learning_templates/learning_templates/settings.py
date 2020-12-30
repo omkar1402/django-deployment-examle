@@ -26,7 +26,7 @@ SECRET_KEY = 'j_!-0c31cxqch&w5&xjd$=7ud7#-=098tykl2wvlqn*lm#6i8v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mango1402.pythonanywhere.com',]
 
 
 # Application definition
